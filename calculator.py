@@ -12,8 +12,8 @@ def multiply(a, b):
 
 
 
-num1 = int(input("Enter first number: "))
-num2 = int(input("Enter second number: "))
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
 
 #choose operand
 operand = input("choose operation( +, -, /, * : ")
